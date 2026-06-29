@@ -17,9 +17,7 @@ website:
         text: Methods
       - href: update-guide.qmd
         text: Update Guide
-      - href: about.qmd
-        text: About
-
+  
   page-footer:
     left: "Evidence Surveillance Hub — Proof of Concept"
     right: "Generated with Quarto and GitHub Pages"
