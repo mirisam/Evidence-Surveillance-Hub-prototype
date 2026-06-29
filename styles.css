@@ -127,3 +127,45 @@ table {
   border-top: 1px solid #d6d9dc;
   margin-top: 3rem;
 }
+/* Wider, wrapped evidence tables */
+
+.observablehq {
+  width: 100%;
+  max-width: 100%;
+}
+
+.observablehq form {
+  width: 100%;
+  max-width: 100%;
+}
+
+.observablehq table {
+  width: 100% !important;
+  max-width: 100%;
+  table-layout: auto;
+  font-size: 0.9rem;
+}
+
+.observablehq th,
+.observablehq td {
+  white-space: normal !important;
+  overflow-wrap: break-word;
+  word-break: normal;
+  vertical-align: top;
+  padding: 0.6rem;
+  min-width: 140px;
+  max-width: 350px;
+}
+
+/* Give text-heavy columns more room */
+.observablehq td:nth-child(1),
+.observablehq td:nth-child(2),
+.observablehq td:nth-child(3) {
+  min-width: 260px;
+  max-width: 450px;
+}
+/* Hide the blank selector/index column in Observable tables */
+.observablehq table th:first-child,
+.observablehq table td:first-child {
+  display: none;
+}
