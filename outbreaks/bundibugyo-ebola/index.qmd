@@ -1,5 +1,5 @@
 ---
-title: "Bundibugyo Ebolavirus Evidence Surveillance"
+title: "Live: Bundibugyo Ebolavirus Evidence Surveillance"
 format:
   html:
     page-layout: full
