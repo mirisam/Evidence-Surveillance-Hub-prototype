@@ -24,6 +24,7 @@ Evidence surveillance table for mpox literature.
 Evidence surveillance table for hantavirus literature.
 
 [View evidence table](outbreaks/hantavirus/)
+
 ::: {.info-card}
 ### Bundibugyo Ebolavirus
 
