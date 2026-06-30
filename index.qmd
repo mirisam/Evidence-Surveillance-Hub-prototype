@@ -11,7 +11,7 @@ title: "Home"
 A prototype demonstrating how living evidence surveillance outputs can be published through a searchable, downloadable, and version-controlled platform.
 </div>
 :::
-
+{{< include _recent-updates.md >}}
 ## Purpose
 
 The Evidence Surveillance Hub provides a simple and sustainable approach for sharing rapidly updated outbreak literature.
