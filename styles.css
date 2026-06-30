@@ -184,8 +184,3 @@ table {
 .hero-text {
   flex: 1;
 }
-
-.navbar-logo {
-  max-height: 40px;
-  width: auto;
-}
