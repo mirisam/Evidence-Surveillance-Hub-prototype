@@ -6,6 +6,7 @@ website:
   search: true
 
   navbar:
+    logo: images/canadian-flag.png
     background: "#26374a"
     foreground: "white"
     left:
